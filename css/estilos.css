@@ -1,0 +1,41 @@
+body {
+    background-image: url("https://portalresiduossolidos.com/wp-content/uploads/2019/03/fundo-site-certo-1024x589.png");
+    background-size: auto 75vh;
+    font-family: Arial;
+    height: 100vh;
+  }
+  
+  .menu {
+    background-color: white;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  a {
+    color: gray;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-title,
+  .site-subtitle,
+  .primeiro {
+    color: darkgray;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    font-style: italic;
+  }
+
+ 
