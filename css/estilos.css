@@ -3,6 +3,7 @@ body {
     background-size: auto 75vh;
     font-family: Arial;
     height: 100vh;
+    backdrop-filter: blur(2px);
   }
   
   .menu {
